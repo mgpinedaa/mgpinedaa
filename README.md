@@ -2,7 +2,6 @@
 
 I'm a 4th year BS Information Technology student at Pamantasan ng Lungsod ng Valenzuela, with hands-on experience in web development, tech support, and full-stack systems.
 
-<!--
 **mgpinedaa/mgpinedaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 💻 About Me
@@ -33,4 +32,3 @@ UI/UX improvement
 Advanced backend logic
 
 Deployment and hosting for local government systems
--->
